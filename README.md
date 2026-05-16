@@ -29,4 +29,4 @@ I have experience developing business management systems, REST APIs, relational 
 
 - LinkedIn: https://www.linkedin.com/in/jose-oliveira-30960324b/
 - CV: https://jose1277.github.io/CV/
-- Email: josef.oliveira022@gmail.com
+- Email: josee.oliveira022@gmail.com
