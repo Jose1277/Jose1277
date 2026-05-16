@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm José Oliveira
 
-<!--
-**Jose1277/Jose1277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building production-ready web applications with TypeScript, Node.js, NestJS, Next.js and AWS.
 
-Here are some ideas to get you started:
+I have experience developing business management systems, REST APIs, relational database models, authentication flows, dashboards and production deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Stack
+
+- TypeScript
+- Node.js
+- NestJS
+- Next.js
+- React
+- MySQL / PostgreSQL
+- AWS
+- Docker
+- Git
+
+## What I build
+
+- REST APIs
+- Full-stack web applications
+- Internal management systems
+- Authentication and access control
+- Dashboards and reporting features
+- Database models for business workflows
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/jose-oliveira-30960324b/
+- CV: https://jose1277.github.io/CV/
+- Email: josef.oliveira022@gmail.com
